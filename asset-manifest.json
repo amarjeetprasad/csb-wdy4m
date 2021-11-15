@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://amarjeetprasad.github.io/csb-wdy4m/static/css/main.37c1d083.chunk.css",
+    "main.js": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/main.2dc19d9e.chunk.js",
+    "main.js.map": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/main.2dc19d9e.chunk.js.map",
+    "runtime-main.js": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/runtime-main.a47da6d0.js",
+    "runtime-main.js.map": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/runtime-main.a47da6d0.js.map",
+    "static/css/2.b37b9ec7.chunk.css": "https://amarjeetprasad.github.io/csb-wdy4m/static/css/2.b37b9ec7.chunk.css",
+    "static/js/2.5b24ff45.chunk.js": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/2.5b24ff45.chunk.js",
+    "static/js/2.5b24ff45.chunk.js.map": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/2.5b24ff45.chunk.js.map",
+    "index.html": "https://amarjeetprasad.github.io/csb-wdy4m/index.html",
+    "static/css/2.b37b9ec7.chunk.css.map": "https://amarjeetprasad.github.io/csb-wdy4m/static/css/2.b37b9ec7.chunk.css.map",
+    "static/css/main.37c1d083.chunk.css.map": "https://amarjeetprasad.github.io/csb-wdy4m/static/css/main.37c1d083.chunk.css.map",
+    "static/js/2.5b24ff45.chunk.js.LICENSE.txt": "https://amarjeetprasad.github.io/csb-wdy4m/static/js/2.5b24ff45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a47da6d0.js",
+    "static/css/2.b37b9ec7.chunk.css",
+    "static/js/2.5b24ff45.chunk.js",
+    "static/css/main.37c1d083.chunk.css",
+    "static/js/main.2dc19d9e.chunk.js"
+  ]
+}
